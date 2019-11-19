@@ -1,6 +1,8 @@
 Qt Virtual Chart Table (QVCT)
 =============================
 
+![screenshot](https://github.com/Qt-Widgets/qvct-map-widget-flight-instruments-gauges-dials/blob/master/screenshot.jpg)
+
 Synopsis and Features
 ---------------------
 
